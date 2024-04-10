@@ -1,0 +1,61 @@
+body {
+    background: black;
+}
+* {
+    border: red dashed 1px;
+}
+.instagram-post {
+    border: 1px solid #dbdbdb;
+    max-width: 300px;
+    height: 550px;
+    margin: auto;
+    background: #fff;
+}
+.instagram-post {
+    border: 1px solid #dbdbdb;
+    max-width: 400px;
+    margin: 20px auto;
+    background: #fff;
+    font-family: ;
+    font-size: 12px;
+}
+.header {
+    display: flex;
+    height: 50px;
+}
+.logo {
+    padding: 8px 8px 8px 8px;
+    width: 20px;
+}
+.name {
+    padding-left: 5px;
+    padding-top: 8px;
+}
+.my-name {
+    padding-bottom: 5px;
+}
+.Three-dots {
+    margin-left: auto;
+    padding: 8px 8px 8px 8px;
+}
+.main-image{
+    height:275px;
+}
+img {
+    width: 100%;
+    height: 100%;
+}
+.images {
+    display:flex;
+    height: 40px;
+    padding-top: 8px;
+}
+.bookmark {
+   margin-left: auto;
+}
+.liked-by {
+    padding-top: 18px;
+}
+.paragraph {
+    padding:5px 5px 5px 5px;
+}
